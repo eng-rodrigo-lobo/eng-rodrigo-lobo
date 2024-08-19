@@ -6,7 +6,7 @@
 
 - 🌱 No momento eu estou aprendendo sobre **análise de dados e aplicações de IA para integração e análise de dados**
 
-- 👨‍💻 Você pode conferir meu portfólio de projetos no meu site [zero1solucoes.com.br](zero1solucoes.com.br) ou no meu [Instagram](https://www.instagram.com/zero1solucoes/)
+- 👨‍💻 Você pode conferir meu portfólio de projetos no meu site [zero1solucoes.com.br](https://zero1solucoes.com.br) ou no meu [Instagram](https://www.instagram.com/zero1solucoes/)
 
 - 📫 Para entrar em contato comigo, só enviar um e-mail para *contato@zero1solucoes.com.br*
 
